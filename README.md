@@ -2,7 +2,7 @@
 
 Java Lab Exercises Container repo:
 
-1. [Using Eclipse and JUnit]([pending](https://github.com/uid100/JavaLabExercises)) _(pending)_
+1. [Using Eclipse and JUnit](https://github.com/uid100/JavaLabExercises) _(pending)_
 2. [Java Fundamentals](https://github.com/uid100/JavaFundamentals) _(CISC191M1Challenges)_
 3. [Array Fundamentals](https://github.com/uid100/JavaArrayFundamentals) _(CISC191M2JuniorArrayChallenges)_
 4. [2-Dimensional Arrays](https://github.com/uid100/Java2DimensionalArrays) _(CISC191M2MiddleArrayChallenges)_
