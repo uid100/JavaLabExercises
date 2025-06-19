@@ -2,7 +2,7 @@
 
 Java Lab Exercises Container repo:
 
-1. [Using Eclipse and JUnit](pending)
+1. [Using Eclipse and JUnit](pending) _(pending)_
 2. [Java Fundamentals](https://github.com/uid100/JavaFundamentals) _(CISC191M1Challenges)_
 3. [Array Fundamentals](https://github.com/uid100/JavaArrayFundamentals) _(CISC191M2JuniorArrayChallenges)_
 4. [2-Dimensional Arrays](https://github.com/uid100/Java2DimensionalArrays) _(CISC191M2MiddleArrayChallenges)_
@@ -14,6 +14,6 @@ Java Lab Exercises Container repo:
 10. [IO](https://github.com/uid100/JavaIO) _(CISC191IO)_
 11. [Gone Fishing! (GUI)](https://github.com/uid100/JavaGUI) _(CISC191GUI)_
 12. [Recursion](https://github.com/uid100/JavaRecursion) _(CISC191Recursion)_
-13. _[multi-threading - placeholder](https://github.com/schougaard/SanDiegoMesaCISC191ProgrammingChallenges/tree/main/CISC191MultiThreading) _(CISC191MultiThreading)_
-14. _[animated clock - placeholder](https://github.com/schougaard/SanDiegoMesaCISC191ProgrammingChallenges/tree/main/CISC191AnimatedClock) _(CISC191AnimatedClock)_
-15. _[utility: grading] - placeholder](https://github.com/schougaard/SanDiegoMesaCISC191ProgrammingChallenges/tree/main/CISC191Grader) _(CISC191Grader)_
+13. _[multi-threading - placeholder](https://github.com/schougaard/SanDiegoMesaCISC191ProgrammingChallenges/tree/main/CISC191MultiThreading)_ _(CISC191MultiThreading)_
+14. _[animated clock - placeholder](https://github.com/schougaard/SanDiegoMesaCISC191ProgrammingChallenges/tree/main/CISC191AnimatedClock)_ _(CISC191AnimatedClock)_
+ *  _[utility: grading - placeholder](https://github.com/schougaard/SanDiegoMesaCISC191ProgrammingChallenges/tree/main/CISC191Grader)_ _(CISC191Grader)_
