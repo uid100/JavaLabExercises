@@ -14,6 +14,6 @@ Java Lab Exercises Container repo:
 10. [IO](https://github.com/uid100/JavaIO) _(CISC191IO)_
 11. [Gone Fishing! (GUI)](https://github.com/uid100/JavaGUI) _(CISC191GUI)_
 12. [Recursion](https://github.com/uid100/JavaRecursion) _(CISC191Recursion)_
-13. _[multi-threading - placeholder](https://github.com/schougaard/SanDiegoMesaCISC191ProgrammingChallenges/tree/main/CISC191MultiThreading)_ _(CISC191MultiThreading)_
-14. _[animated clock - placeholder](https://github.com/schougaard/SanDiegoMesaCISC191ProgrammingChallenges/tree/main/CISC191AnimatedClock)_ _(CISC191AnimatedClock)_
+ *  _[multi-threading - placeholder](https://github.com/schougaard/SanDiegoMesaCISC191ProgrammingChallenges/tree/main/CISC191MultiThreading)_ _(CISC191MultiThreading)_
+ *  _[animated clock - placeholder](https://github.com/schougaard/SanDiegoMesaCISC191ProgrammingChallenges/tree/main/CISC191AnimatedClock)_ _(CISC191AnimatedClock)_
  *  _[utility: grading - placeholder](https://github.com/schougaard/SanDiegoMesaCISC191ProgrammingChallenges/tree/main/CISC191Grader)_ _(CISC191Grader)_
