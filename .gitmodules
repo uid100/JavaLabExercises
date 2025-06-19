@@ -28,3 +28,6 @@
 [submodule "JavaGUI"]
 	path = JavaGUI
 	url = https://github.com/uid100/JavaGUI
+[submodule "JavaRecursion"]
+	path = JavaRecursion
+	url = https://github.com/uid100/JavaRecursion
