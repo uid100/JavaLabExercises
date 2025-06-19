@@ -1,0 +1,30 @@
+[submodule "JavaFundamentals"]
+	path = JavaFundamentals
+	url = https://github.com/uid100/JavaFundamentals
+[submodule "JavaArrayFundamentals"]
+	path = JavaArrayFundamentals
+	url = https://github.com/uid100/JavaArrayFundamentals
+[submodule "Java2DimensionalArrays"]
+	path = Java2DimensionalArrays
+	url = https://github.com/uid100/Java2DimensionalArrays
+[submodule "JavaClasses"]
+	path = JavaClasses
+	url = https://github.com/uid100/JavaClasses
+[submodule "JavaAdvClasses"]
+	path = JavaAdvClasses
+	url = https://github.com/uid100/JavaAdvClasses
+[submodule "JavaOODesign"]
+	path = JavaOODesign
+	url = https://github.com/uid100/JavaOODesign
+[submodule "JavaDataStructures"]
+	path = JavaDataStructures
+	url = https://github.com/uid100/JavaDataStructures
+[submodule "JavaExceptions"]
+	path = JavaExceptions
+	url = https://github.com/uid100/JavaExceptions
+[submodule "JavaIO"]
+	path = JavaIO
+	url = https://github.com/uid100/JavaIO
+[submodule "JavaGUI"]
+	path = JavaGUI
+	url = https://github.com/uid100/JavaGUI
